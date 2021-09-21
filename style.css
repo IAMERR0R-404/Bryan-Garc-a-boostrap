@@ -1,0 +1,33 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.logo{
+    width: 30px;
+}
+
+.facebook{
+    width: 30px;
+}
+.twitter{
+    width: 30px;
+
+}
+.google{
+    width: 30px;
+    
+}
+
+.instagram{
+    width: 30px;
+
+}
+.linked{
+    width: 30px;
+
+}
+.git{
+    width: 30px;
+
+}
